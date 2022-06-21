@@ -751,7 +751,7 @@ This is done by simply counting word frequencies according to their tags (just l
 
 What about the first tag?
 
-Assume we have a symbol “<s>” that represents the start of your sentence
+Assume we have a symbol "<s>" that represents the start of your sentence
 
  
 
